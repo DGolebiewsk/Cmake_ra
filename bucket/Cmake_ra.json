@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/DGolebiewsk/Cmake_ra/raw/main/CMake-3.25.0_rc3_ra_patch2.zip",
             "hash": "58C4B6DE5557ED6992A859D6CE130441FD06C7C5B85557A167187D3F5FABF62B",
-            "extract_dir": "cmake-3.25.20221108-gf6b7e71-dirty-win64-x64"
+            "extract_dir": "CMake-3.25.0_rc3_ra_patch1"
         }
     },
     "bin": [
